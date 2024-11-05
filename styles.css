@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#scratch-card {
+  cursor: pointer;
+}
+
+#scratch-canvas {
+  pointer-events: none;
+}
